@@ -14,6 +14,6 @@ If you add, improve, or build other useful tools here: feel free to fork and sen
 4. Past the script in (often times a single function), review, and Run.
 # Scripts
 
-1. listAllUsersAndGroups.js
+1. [listAllUsersAndGroups.js](listAllUsersAndGroups.js)
   * List all users in the domain, whether or not they are suspended, their email alises.  
   * List all groups in the domain, the group's email aliases, and a list of all the members
